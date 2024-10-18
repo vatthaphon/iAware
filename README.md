@@ -1,4 +1,4 @@
-# iAware Prototype.
+# iAware Prototype
 
 ## Description
 This repository stores a prototype of iAware, a meditation training application. The prototype contains a Python-based UI (/UI) connecting with MUSE, an affordable EEG data acquisition, through Bluetooth. The UI has an option of face login.
