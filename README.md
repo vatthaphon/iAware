@@ -8,6 +8,7 @@ This repository stores a prototype of iAware. The prototype contains a Python-ba
 - We recommend using the conda environment.
 - It runs with Python 3.7
 - Install required packages using conda.
+- Install PyQt 5.
 ### ESP32 firmware
 - Hardware requirements: ESP32-WROOM and EEG sensor.
 - You need to build and upload the source code using ESP-IDF.
